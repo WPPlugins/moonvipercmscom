@@ -1,0 +1,35 @@
+body.press-this #wphead {position:relative;z-index:1;padding:0;}
+body.press-this #wphead h1 {position:absolute;right:240px;text-align:right;top:8px;}
+body.press-this #wphead h1 #viewsite {background:none;right:0;top:0;}
+body.press-this #wphead h1 #viewsite a {background:none;font-size:12px !important;margin:0;padding:0;}
+body.press-this .ui-tabs-nav {position:relative;z-index:100;border-bottom:1px solid #999;margin-bottom:0;margin-top:-26px;}
+body.press-this .ui-tabs-nav li a {color:#CCC;}
+body.press-this .ui-tabs-nav li.ui-tabs-selected a {border-color:#999 #999 #FFF;color:#333;}
+body.press-this form {margin:0 240px 0 10px;}
+body.press-this #posting {padding:0;max-width:100%;position:relative;width:auto;}
+body.press-this #posting .titlewrap {-moz-border-radius:3px;-webkit-border-radius:3px;padding:4px 6px;}
+body.press-this #posting .titlewrap input {font-size:14px;}
+body.press-this #categories {right:0;top:0;width:230px;height:100%;z-index:100;}
+body.press-this .submitbox #previewview {height: 31px;margin-top: 0;padding: 0 !important;}
+body.press-this .submitbox #previewview a {height: 31px;line-height: 31px;text-decoration:none;}
+body.press-this div#categories .submitbox .inside h2 {background-color:#EEE;margin:0;padding:4px 0 4px 7px;border-bottom:1px solid #DADADA;}
+body.press-this div#categories .submitbox .inside #categories-all {border-bottom:1px solid #DADADA;}
+body.press-this div#categories .submitbox .inside #jaxtag {border-bottom:0px none #FFF;background:none;padding-bottom:0;}
+body.press-this div#categories .submitbox .inside #jaxtag #ajaxtag input#newtag {border:1px solid #CCC;-moz-border-radius:3px;-webkit-border-radius:3px;padding:3px 5px;font-size:12px;}
+body.press-this div#categories .submitbox .inside #jaxtag #ajaxtag input#tagadd {border-color:#CCC;color:#333;padding:2px 5px;}
+body.press-this div#categories .submitbox .inside #tagchecklist {border-bottom:1px solid #DADADA;padding-bottom:8px;}
+body.press-this #posting .editor-container {border: 1px solid #CCC;}
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar {background-color: #DDD;border-bottom: 1px solid #CCC;}
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table { background-color: #DDD; }
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td a.mceButton {border-color: #999;cursor: pointer;}
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td a.mceButton span { cursor: pointer; }
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td a.mceButtonActive, 
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td a.mceButton:hover { border-color: #333 !important; }
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td table.mceSplitButton tbody tr td a, 
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td table.mceListBox tbody tr td a { border-color: #999; }
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td table.mceSplitButton tbody tr td a:hover, 
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td table.mceListBox tbody tr td a:hover { border-color: #333 !important; }
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td a.mceButtonDisabled, 
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td a.mceButtonDisabled:hover {border-color: #CCC !important;cursor:default;}
+body.press-this #posting .editor-container #content_tbl tr.mceFirst td.mceToolbar table tbody tr td a.mceButtonDisabled span { cursor: default; }
+body.press-this #posting .editor-container #content_tbl tr.mceLast td.mceStatusbar {background-color: #DDD;border-top: 1px solid #CCC;}

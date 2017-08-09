@@ -1,0 +1,1 @@
+[29-Aug-2008 14:41:41] PHP Fatal error:  Call to undefined function  get_option() in /home/outgayli/public_html/wp-content/plugins/ultimate-google-analytics/ultimate_ga.php on line 161

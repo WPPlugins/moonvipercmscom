@@ -1,0 +1,52 @@
+.wrap form.wrap {
+	margin-left: 0;
+	padding: 0;
+}
+.wrap h2 + form.wrap + h2 {
+	border-top: 1px solid #dadada;
+	margin-top: 10px;
+}
+fieldset.small {
+	border: none;
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+fieldset.small legend {
+	color: #666;
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+fieldset.small textarea { border: 1px solid #CCC; }
+fieldset.small input[type=text] { border: 1px solid #CCC; }
+fieldset.small input[type=radio] {
+	position: relative;
+	top: 2px;
+}
+.wrap form.wrap input.button {
+	border-color: #999;
+	border-radius: 0;
+	-khtml-border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	color: #333;
+}
+.wrap table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-color: #DDD;
+	border-style: solid;
+	border-width: 1px;
+	margin: 0 0 15px;
+	width: 100%;
+}
+.wrap table tr:first-child { border: 1px solid #444; }
+.wrap table tr th[scope=col] {
+	background-color: #666;
+	border: none;
+	color: #EEE;
+}
+.wrap table tr td, .wrap table tr th[scope=row] {
+	border: 1px solid #DDD;
+	font-size: 11px;
+	padding: 3px 5px;
+}

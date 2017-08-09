@@ -1,0 +1,17 @@
+.fingerprint_icons { 
+border: 0;
+opacity: .6;
+filter: alpha(opacity=60);
+-khtml-opacity: 60;
+margin-top: 5px;
+margin-bottom: 1px;
+margin-right: 5px;
+margin-left: 5px;
+}
+
+a:hover .fingerprint_icons  {
+background: #eee8e4;
+opacity: 1;
+filter: alpha(opacity=100);
+-khtml-opacity:100;
+}

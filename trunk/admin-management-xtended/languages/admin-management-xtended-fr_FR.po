@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/admin-management-xtended\n"
+"POT-Creation-Date: 2008-05-14 18:56+0000\n"
+"PO-Revision-Date: 2008-05-15 00:04+0100\n"
+"Last-Translator: Gilles <draky@draky.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+": \n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Adds AJAX-driven options to some admin management pages with CMS-known functions like toggling post/page visibility without having to open the edit screens, plus changing page order with drag'n'drop."
+msgstr "Ajoute des options AJAX sur certaines pages de l'administration avec des fonctions comme changer la visiblité des billets/pages sans les éditer, ainsi que changer l'ordre des pages par simple Glisser - Déposer."
+
+msgid "Admin Management Xtended"
+msgstr "Admin Management Xtended"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Change Page Title"
+msgstr "Changer le titre de la page"
+
+msgid "Change Post Title"
+msgstr "Changer le titre du billet"
+
+msgid "Change Publication Date"
+msgstr "Changer la date de publication"
+
+msgid "Direct input"
+msgstr "Saisie directe"
+
+msgid "Drag & Drop"
+msgstr "Glisser/ Déposer"
+
+msgid "Drag & Drop <a href='http://www.schloebe.de/wordpress/admin-management-xtended-plugin/#pageorder' target='_blank' style='color:#fff;text-decoration:underline;'>[?]</a>"
+msgstr "Glisser - Déposer <a href='http://www.schloebe.de/wordpress/admin-management-xtended-plugin/#pageorder' target='_blank' style='color:#fff;text-decoration:underline;'>[?]</a>"
+
+msgid "Edit Page Order:"
+msgstr "Modifier l'ordre des pages :"
+
+msgid "Edit Page Slug"
+msgstr "Changer l'identifiant de la page"
+
+msgid "Edit Post Slug"
+msgstr "Changer l'identifiant du billet"
+
+msgid "Hide invisible Posts"
+msgstr "Cacher les billets invisibles"
+
+msgid "Off"
+msgstr "Désactivé"
+
+msgid "Oliver Schl&ouml;be"
+msgstr "Oliver Schl&ouml;be"
+
+msgid "Page Order"
+msgstr "Ordre des pages"
+
+msgid "Please wait..."
+msgstr "Veuillez patienter..."
+
+msgid "Post"
+msgstr "Billet"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Show invisible Posts"
+msgstr "Montrer les billets invisibles"
+
+msgid "Toggle visibility"
+msgstr "Changer la visibilité"
+
+msgid "Y/m/d"
+msgstr "A/m/j"
+
+msgid "http://www.schloebe.de/"
+msgstr "http://www.schloebe.de/"
+
+msgid "http://www.schloebe.de/wordpress/admin-management-xtended-plugin/"
+msgstr "http://www.schloebe.de/wordpress/admin-management-xtended-plugin/"
+

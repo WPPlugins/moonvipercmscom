@@ -1,0 +1,140 @@
+/*--
+Hide default Admin header
+*/	
+#wphead {
+	display:none;}
+
+#user_info {
+	position: absolute;
+	right: 15px;
+	top: -2005px;
+	font-size: 11px;
+	display: none;
+}
+
+#user_info2 {
+	position: absolute;
+	right: 15px;
+	top: 7px;
+	font-size: 14px;
+	color:#000000;}
+	
+.top_strip {
+	color: #FFFFFF;
+	text-decoration:none;
+}
+
+.top_strip a:hover{
+	color: #FFFFFF;
+	text-decoration:none;
+}
+
+ul#dashmenu {
+	margin: 0;
+	list-style: none;
+	position: absolute;
+	top: -2005px;
+	left: 0;
+	font-size: 11px;
+	padding-left: 9px;
+	color:#fff;}
+
+
+#dashmenu_dashboard {
+	float:left;
+	margin-left: 20px;
+}
+
+#dashmenu_login {
+	float:right;
+	margin-right: 8px;
+}
+
+/*--
+WP Admin header
+*/	
+#wphead_branded {
+	color: #CCCCCC;
+	border-top-width: 20px;
+	border-top-style: solid;
+	border-top-color:#000000;
+	background-color: #000000;
+	padding-bottom: 5px;
+	padding-left: 175px;
+}
+
+#wphead_branded a {
+	color: #fff;
+	border:none;
+}
+
+#wphead_branded h1 {
+	font-size: 2.5em;
+	font-weight: normal;
+	letter-spacing: -.05em;
+	margin: 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#wphead_branded h1 span {
+	font-size: .4em;
+	letter-spacing: 0;
+}
+
+#user_info_custom {
+	position: absolute;
+	right: 15px;
+	top: 11px;
+	font-size: 11px;
+}
+
+#user_info_custom p {
+	margin: 0;
+	padding: 0;
+}
+
+#user_info_custom a:hover {
+	text-decoration: underline;
+}
+
+/*--
+Hide default Admin footer
+*/	
+#footer {
+	display:none;
+	height:0px;
+}
+
+/*--
+WP Admin footer
+*/	
+#footer_branded {
+	clear: both;
+	width: 100%;
+	margin-top: -50px;
+	height: 50px;
+	vertical-align: middle;
+	color:#999;
+	background-color: #000000;
+	
+}
+
+#footer_branded img {
+	vertical-align: middle;
+}
+
+#footer_branded .foot_txt {
+	padding-left: 20px;
+	line-height: 120%;
+	color: #fff;
+	padding-bottom: 20px;
+}
+
+#footer_branded .docs {
+	padding-top: 0px;
+	line-height: 100%;
+}
+
+#footer_image {
+	border:none;}
+	

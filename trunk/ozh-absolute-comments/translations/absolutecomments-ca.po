@@ -1,0 +1,100 @@
+# Absolute Comments - plugin for WordPress
+# Ozh <ozh@planetozh.com>, 2007
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Absolute Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-10-28 08:27-0700\n"
+"PO-Revision-Date: 2008-08-22 13:47+0100\n"
+"Last-Translator: Albert Ferran <albert.ferran@gmail.com>\n"
+"Language-Team: Ozh <ozh@planetozh.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp_ozh_absolutecomments.php:108
+msgid "Oops, no comment with this ID."
+msgstr "Ups, no hi ha cap comentari amb aquest ID."
+
+#: wp_ozh_absolutecomments.php:108
+msgid "Go back"
+msgstr "Enrera"
+
+#: wp_ozh_absolutecomments.php:114
+msgid "Your Reply"
+msgstr "La teva resposta"
+
+#: wp_ozh_absolutecomments.php:141
+#: includes/_print_js.php:14
+msgid "Reply"
+msgstr "Respondre"
+
+#: wp_ozh_absolutecomments.php:143
+msgid "Powered by"
+msgstr "Powered by"
+
+#: includes/_print_js.php:11
+msgid "Reply to Comment &raquo;"
+msgstr "Respondre al comentari &raquo;"
+
+#: includes/_print_js.php:12
+msgid "Thread Reply &raquo;"
+msgstr "Respondre al fil &raquo;"
+
+#: includes/_print_js.php:13
+msgid "Wait..."
+msgstr "Espera..."
+
+#: includes/_print_js.php:15
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/_print_js.php:16
+msgid "View All"
+msgstr "Veure tots"
+
+#: includes/_print_js.php:17
+msgid "Quick Reply"
+msgstr "Resposta ràpida"
+
+#: includes/_print_js.php:18
+msgid "Reply with advanced editor"
+msgstr "Respondre amb l'Editor Avançat"
+
+#: includes/_print_js.php:19
+msgid "View all comments for this post"
+msgstr "Veure tots els comentaris per aquesta entrada"
+
+#: includes/_print_js.php:20
+msgid "Posting comment..."
+msgstr "Publicant comentari..."
+
+#: includes/_print_js.php:21
+msgid "Ooops! Duplicate comment detected. Aborted."
+msgstr "Ups! S'ha detectat un comentari duplicat. Aturat."
+
+#: includes/_print_js.php:22
+msgid "Ooops! You are posting too quickly. Aborted."
+msgstr "Ups! Estàs publicant massa ràpid. Aturat."
+
+#: includes/_print_js.php:23
+msgid "Error (duplicate comment, or posting too quickly ?). Aborted"
+msgstr "Error (comentari duplicat, o publicant massa ràpid?). Aturat."
+
+#: includes/_reply_form.php:27
+msgid "currently flagged as"
+msgstr "actualment etiquetat com"
+
+#: includes/_reply_form.php:28
+msgid "Your reply to this comment"
+msgstr "La teva resposta a aquest comentari"
+
+#: includes/_view_all.php:59
+msgid "Comments on"
+msgstr "Comentaris per"
+
+#: includes/_view_comment.php:23
+msgid "From: "
+msgstr "De:"
+

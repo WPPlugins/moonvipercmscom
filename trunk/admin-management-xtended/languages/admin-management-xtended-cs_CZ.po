@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin-Management-Xtended CZ\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/admin-management-xtended\n"
+"POT-Creation-Date: 2008-06-22 21:28+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pepawo <jklimosz@gmail.com>\n"
+"Language-Team: Pepawo <jklimosz@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: admin-management-xtended.php:160
+msgid "Admin Management Xtended requires at least WordPress 2.5!"
+msgstr "Admin Management Xtended vyžaduje minimálně WordPress 2.5!"
+
+#: admin-management-xtended.php:172
+msgid "You seem using the <em>Better Tags Manager</em> plugin, which collides with the <em>Admin Management Xtended</em> plugin since both extend the tags column. Please deactivate one of both to make this message disappear."
+msgstr "Zřejmě používáte plugin <em>Better Tags Manager</em>, který koliduje s pluginem <em>Admin Management Xtended</em>, protože oba rozšiřují sloupec štítků. Deaktivujte jeden z nich a toto hlášení zmizí."
+
+#: admin-management-xtended.php:172
+msgid "(This message was created by Admin Management Xtended plugin)"
+msgstr "(tato zpráva byla vytvořena Admin Management Xtended pluginem)"
+
+#: general-functions.php:145
+#: general-functions.php:148
+#: page-functions.php:98
+#: post-functions.php:207
+msgid "Toggle comment status open/closed"
+msgstr "Přepnutí stavu komentování"
+
+#: general-functions.php:202
+#: post-functions.php:72
+msgid "No Tags"
+msgstr "Žádné štítky"
+
+#: general-functions.php:205
+#: post-functions.php:75
+msgid "Edit Tags for Post"
+msgstr "Upravit štítky k příspěvku"
+
+#: general-functions.php:236
+#: post-functions.php:127
+msgid "Uncategorized"
+msgstr "Nezařazené"
+
+#: general-functions.php:300
+#: general-functions.php:564
+msgid "Post"
+msgstr "Příspěvek"
+
+#: general-functions.php:300
+#: general-functions.php:564
+#: post-functions.php:141
+msgid "Save"
+msgstr "Uložit"
+
+#: general-functions.php:300
+#: general-functions.php:564
+#: post-functions.php:141
+msgid "Cancel"
+msgstr "Storno"
+
+#: general-functions.php:372
+#: general-functions.php:375
+msgid "Y/m/d"
+msgstr "j. n. Y"
+
+#: general-functions.php:393
+#: general-functions.php:396
+#: page-functions.php:81
+#: page-functions.php:84
+#: post-functions.php:190
+#: post-functions.php:193
+msgid "Toggle visibility"
+msgstr "Přepnout viditelnost"
+
+#: general-functions.php:505
+#: general-functions.php:511
+#: general-functions.php:517
+msgid "Edit Page Order:"
+msgstr "Upravit pořadí stránek:"
+
+#: general-functions.php:505
+#: general-functions.php:511
+#: general-functions.php:517
+msgid "Off"
+msgstr "Vyp."
+
+#: general-functions.php:505
+#: general-functions.php:511
+#: general-functions.php:517
+msgid "Direct input"
+msgstr "Zadáním"
+
+#: general-functions.php:505
+#: general-functions.php:511
+msgid "Drag & Drop"
+msgstr "Uchop a pusť"
+
+#: general-functions.php:517
+msgid "Drag & Drop <a href='http://www.schloebe.de/wordpress/admin-management-xtended-plugin/#pageorder' target='_blank' style='color:#fff;text-decoration:underline;'>[?]</a>"
+msgstr "Uchop a pusť <a href='http://www.schloebe.de/wordpress/admin-management-xtended-plugin/#pageorder' target='_blank' style='color:#fff;text-decoration:underline;'>[?]</a>"
+
+#: general-functions.php:526
+msgid "Hide invisible Posts"
+msgstr "Skrýt neviditelné příspěvky"
+
+#: general-functions.php:532
+msgid "Show invisible Posts"
+msgstr "Zobrazit neviditelné příspěvky"
+
+#: general-functions.php:564
+msgid "Please wait..."
+msgstr "Čekejte..."
+
+#: general-functions.php:591
+msgid "Change image set"
+msgstr "Změnit sadu ikon"
+
+#: media-functions.php:43
+#: page-functions.php:43
+#: page-functions.php:59
+#: post-functions.php:45
+#: post-functions.php:100
+#: post-functions.php:170
+msgid "Enhanced by Admin Management Xtended Plugin"
+msgstr "Rozšíření pluginem Admin Management Xtended"
+
+#: media-functions.php:43
+msgid "Media Order"
+msgstr "Pořadí médií"
+
+#: page-functions.php:43
+#: post-functions.php:170
+msgid "Actions"
+msgstr "Akce"
+
+#: page-functions.php:59
+msgid "Page Order"
+msgstr "Pořadí stránek"
+
+#: page-functions.php:87
+#: post-functions.php:196
+msgid "Change Publication Date"
+msgstr "Změnit datum publikace"
+
+#: page-functions.php:91
+msgid "Change Page Title"
+msgstr "Změnit název stránky"
+
+#: page-functions.php:93
+msgid "Edit Page Slug"
+msgstr "Upravit zkrácený název stránky"
+
+#: post-functions.php:45
+msgid "Tags"
+msgstr "Štítky"
+
+#: post-functions.php:100
+msgid "Categories"
+msgstr "Rubriky"
+
+#: post-functions.php:145
+msgid "Edit Categories for Post"
+msgstr "Upravit rubriku příspěvku"
+
+#: post-functions.php:145
+msgid "Edit Categories"
+msgstr "Upravit rubriky"
+
+#: post-functions.php:200
+msgid "Change Post Title"
+msgstr "Změnit název příspěvku"
+
+#: post-functions.php:202
+msgid "Edit Post Slug"
+msgstr "Upravit zkrácený název příspěvku"
+
+#: post-functions.php:232
+msgid "You seem using the \\\"Better Tags Manager\\\" plugin, which collides with the \\\"Admin Management Xtended\\\" plugin since both extend the tags column. Please <a href=\\\"plugins.php\\\">deactivate</a> one of both to make this message disappear."
+msgstr "Zřejmě používáte plugin \\\"Better Tags Manager\\\", který koliduje s pluginem \\\"Admin Management Xtended\\\", protože oba rozšiřují sloupec štítků. Zkuste <a href=\\\"plugins.php\\\">deaktivovat</a> jeden z nich a tato zpráva zmizí."
+
+#. Plugin Name of an extension
+msgid "Admin Management Xtended"
+msgstr "Rozšířená administrace"
+
+#. Plugin URI of an extension
+msgid "http://www.schloebe.de/wordpress/admin-management-xtended-plugin/"
+msgstr "http://www.schloebe.de/wordpress/admin-management-xtended-plugin/"
+
+#. Description of an extension
+msgid "Extends admin functionalities by introducing: <abbr title=\"\">toggling post/page visibility inline</abbr>, <abbr title=\"\">changing page order with drag'n'drop</abbr>, <abbr title=\"\">inline category management</abbr>, <abbr title=\"\">inline tag management</abbr>, <abbr title=\"\">changing publication date inline</abbr>, <abbr title=\"\">changing post slug inline</abbr>, <abbr title=\"\">toggling comment status open/closed</abbr>, <abbr title=\"\">hide draft posts</abbr>, <abbr title=\"\">change media order</abbr>"
+msgstr "Rozšiřuje administrační funkce o: <abbr title=\"\">přepnutí viditelnosti příspěvku/stránky</abbr>, <abbr title=\"\">změna pořadí stránek systémem 'uchop a pusť'</abbr>, <abbr title=\"\">průběžnou správu rubrik</abbr>, <abbr title=\"\">průběžnou správu štítků</abbr>, <abbr title=\"\">změnu data publikování</abbr>, <abbr title=\"\">změnu zkráceného názvu</abbr>, <abbr title=\"\">přepnutí stavu komentování</abbr>, <abbr title=\"\">skrytí konceptů</abbr>, <abbr title=\"\">změnu pořadí médií</abbr>"
+
+#. Author of an extension
+msgid "Oliver Schl&ouml;be"
+msgstr "Oliver Schl&ouml;be"
+
+#. Author URI of an extension
+msgid "http://www.schloebe.de/"
+msgstr "http://www.schloebe.de/"
+

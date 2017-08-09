@@ -1,0 +1,1 @@
+[29-Aug-2008 13:56:51] PHP Fatal error:  Call to undefined function  get_option() in /home/outgayli/public_html/wp-content/plugins/wordpress-dashboard-editor/dashboard.php on line 10

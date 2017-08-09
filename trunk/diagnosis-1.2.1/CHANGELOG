@@ -1,0 +1,14 @@
+Mon Jan  8 18:05:27 CET 2007  contact@nlindblad.org
+  * Cleaned up messy code in the diagnosis() function.
+
+Mon Jan  8 17:34:11 CET 2007  contact@nlindblad.org
+  * Added a field holding the current WordPress version.
+
+Mon Jan  8 16:37:46 CET 2007  contact@nlindblad.org
+  * Successfully working using WordPress 2.0.6. Changing internal versioning to 1.2.1 because of quality assurance and previous bug fix.
+
+Mon Jan  8 16:03:06 CET 2007  contact@nlindblad.org
+  * Fixed the date bug caused by PHP4 and earlier versions not having the ISO 8601 keyworded to date()
+
+Mon Jan  8 15:23:17 CET 2007  contact@nlindblad.org
+  * Initial import.

@@ -1,0 +1,206 @@
+div.cmDiv {
+	background-color:transparent;
+	border:none;
+}
+.cmDiv #admin-menus {
+	background-color: #222;
+	background: #222  url(../images/fluency.png) no-repeat 10px 10px;
+	border-bottom: none;
+	border-right: 0px; 
+	display: none;
+	font-size: 14px;
+	height: 100%;
+	left: 0;
+	line-height: 20px;
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	margin-bottom:30px;
+	margin-left:0;
+	padding-left: 0px;
+	padding-top: 38px;
+	position: fixed;
+	top: 0px;
+	width: 160px;
+	z-index: 8000;
+}
+.cmDiv #admin-menus li.am-item.main,
+.cmDiv #admin-menus li.am-current.main {
+	display: block;
+	margin: 0;	
+	position: relative;
+	text-align: left;
+	padding:0;
+	background-color: #222;
+}
+.cmDiv #admin-menus li.am-item.main a {
+	border-bottom: 1px solid #333 !important;
+	color: #999 !important;
+	display: block;
+	font-size: 14px;
+	line-height: 28px;
+	padding: 0 0 0 10px;
+	padding-left: 10px;
+	position: relative;
+	width: 150px;
+}
+.cmDiv #admin-menus li.am-current.main a {
+	border-bottom: 1px solid #333 !important;
+	color: #EEE !important;
+	display: block;
+	font-size: 14px;
+	line-height: 28px;
+	padding: 0 0 0 10px;
+	padding-left: 10px;
+	position: relative;
+	width: 150px;
+}
+.cmDiv #admin-menus li.am-item.main:hover, .cmDiv #admin-menus li.am-item.main.hover {
+	background-color: #292929 !important;
+	border: none;
+	border-radius: 0;
+	-khtml-border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	color: #FFF !important;
+	padding: 0 0 0 35px;
+	padding-left: 0px;
+}
+.cmDiv #admin-menus li.am-current.main:hover, .cmDiv #admin-menus li.am-current.main.hover {
+	background-color: #333 !important;
+	border: none;
+	border-radius: 0;
+	-khtml-border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	color: #FFF !important;
+	padding: 0 0 0 35px;
+	padding-left: 0px;
+}
+.cmDiv #admin-menus li.am-item.main:hover a, .cmDiv #admin-menus li.am-item.main.hover a {
+	color:#FFF !important;
+}
+.cmDiv #admin-menus li.am-current.main {
+	background: #292929 url(../images/indicator2.png) no-repeat right center;
+	color: #FFF !important;
+	padding-left: 0;
+}
+.cmDiv #admin-menus ul.innerBox li.am-item a:hover, .cmDiv #admin-menus ul.innerBox li.am-current a, .cmDiv #admin-menus ul.innerBox li.am-current a:hover {
+	background-color: #333;
+	border-radius: 0;
+	-khtml-border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	color: #FFF !important;
+	padding: 0 0 0 10px;
+}
+.cmDiv #admin-menus li.am-item.main .outerbox.inner, .cmDiv #admin-menus li.am-current.main .outerbox.inner {
+	margin:0;
+}
+.cmDiv #admin-menus li.am-item.main .outerbox.inner .shadowbox1, .cmDiv #admin-menus li.am-item.main .outerbox.inner .shadowbox2, .cmDiv #admin-menus li.am-item.main .outerbox.inner .shadowbox3,
+.cmDiv #admin-menus li.am-current.main .outerbox.inner .shadowbox1, .cmDiv #admin-menus li.am-current.main .outerbox.inner .shadowbox2, .cmDiv #admin-menus li.am-current.main .outerbox.inner .shadowbox3 {
+	display:none;
+	visibility:hidden;
+}
+.cmDiv #admin-menus li.am-item.main ul.innerBox, .cmDiv #admin-menus li.am-current.main ul.innerBox {
+	background: #222;
+	border-left: none;
+	border-top: 1px solid #333 ;
+	border-right: 1px solid #333 ;
+	border-bottom: 1px solid #333 ;
+	border-radius-bottomleft: 0;
+	border-radius-bottomright: 0;
+	-khtml-border-radius-bottomleft: 0px;
+	-khtml-border-radius-bottomright: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	-moz-border-radius-bottomright: 0px;
+	-webkit-border-radius-bottomleft: 0px;
+	-webkit-border-radius-bottomright: 0px;
+	filter: alpha(opacity=100);
+	font-size: 12px;
+	/*left: -999px;*/
+	list-style: none;
+	list-style-position: auto;
+	list-style-type: auto;
+	margin: 0 0 0 160px;
+	min-width: 6em;
+	opacity: 1;
+	padding: 0;
+	padding-bottom: 0;
+	position: relative;
+	top: -20px;
+}
+.cmDiv #admin-menus li.am-item.main ul.innerBox li,
+.cmDiv #admin-menus li.am-item.main ul.innerBox li.sep,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.sep {
+	display:none;
+	visibility:hidden;
+}
+.cmDiv #admin-menus li.am-item.main ul.innerBox li.am-item,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.am-item,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.am-current {
+/*	float: none;
+	text-align: left;*/
+	display: block;
+	margin: 0 !important;	
+	position: relative;
+	text-align: left;
+	padding:0;
+	background-color: #222;
+	visibility:visible;
+}
+.cmDiv #admin-menus li.am-item.main ul.innerBox li.am-item a,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.am-item a,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.am-current a {
+	border-bottom: 0px solid transparent !important;
+	border-top: 1px solid #333 !important;
+	color: #EEE;
+	font-size: 12px;
+	line-height: 20px;
+	margin: 0px;
+}
+.cmDiv #admin-menus li.am-item.main ul.innerBox li.am-item a img,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.am-item a img,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.am-current a img {
+	display:none;
+	visibility: hidden;
+}
+.cmDiv #admin-menus li.am-item.main ul.innerBox li.am-item a:hover,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.am-item a:hover,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.am-current a:hover { background-color: #292929; }
+.cmDiv #admin-menus li.am-item.main ul.innerBox li.am-item:first-child a,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.am-item:first-child a,
+.cmDiv #admin-menus li.am-current.main ul.innerBox li.am-current:first-child a { border-top: 0px solid transparent !important; }
+.cmDiv #admin-menus li:hover ul, .cmDiv #admin-menus li.ozhmenu_over ul {
+	left: auto;
+	z-index: 999999;
+}
+.cmDiv #admin-menus .am-current { border: 0px; }
+.cmDiv #admin-menus li.am-item ul.innerBox li.am-item a.current,
+.cmDiv #admin-menus li.am-current ul.innerBox li.am-item a.current {
+	background: #292929 url(../images/indicator2.png) no-repeat right center;
+	color: #FFF !important;
+}
+.cmDiv #admin-menus li.am-item ul.innerBox li.am-item a.current:hover { color: #EEE; }
+.cmDiv #admin-menus li.am-item ul.innerbox li.am-item a.current:before {
+	color: #EEE;
+	content: "";
+}
+.cmDiv #admin-menus li a span#ccount,
+.cmDiv #admin-menus li a span#ccountzero {
+	background: transparent url(../images/commLeft.png) no-repeat left center !important;
+	bottom: 7px;
+	display: block;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	right: 0px;
+	width: auto;
+	padding: 0 10px 0 8px;
+}
+#submenu {
+	background-image: url(../images/topleft222.png);
+	background-repeat: no-repeat;
+	display:block;
+}

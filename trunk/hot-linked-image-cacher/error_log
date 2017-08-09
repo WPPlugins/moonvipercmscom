@@ -1,0 +1,1 @@
+[29-Aug-2008 14:46:42] PHP Fatal error:  Call to undefined function  add_action() in /home/outgayli/public_html/wp-content/plugins/hot-linked-image-cacher/hotlinked-image-cacher.php on line 246

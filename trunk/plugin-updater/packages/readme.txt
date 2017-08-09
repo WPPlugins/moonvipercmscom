@@ -1,0 +1,1 @@
+This directory will hold all the downloaded packages for your plugins

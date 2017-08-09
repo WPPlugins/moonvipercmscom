@@ -1,0 +1,105 @@
+fieldset.options {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+fieldset.options legend {
+	color: #666;
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+.optiontable {
+	border-spacing: 0 2px;
+	margin: 0 0 15px;
+	width: 100%;
+}
+.optiontable th {
+	background-color: #F6f6f6;
+	border: 1px solid #EEE;
+	border-right: 0;
+	font-size: 90%;
+	line-height: 14px;
+	padding: 5px 10px 5px 10px;
+	text-align: left;
+	text-transform: uppercase;
+	vertical-align: middle;
+	width: 200px;
+}
+.optiontable td {
+	background-color: #FFFFFF;
+	border: 1px solid #EEE;
+	border-left: 0;
+	color: #333;
+	font-size:11px;
+	padding: 5px;
+}
+.optiontable td input[type=text], .optiontable td input[type=password], .optiontable td textarea, .optiontable td select { border: 1px solid #999; }
+.optiontable td select { padding: 3px; }
+.optiontable td p { margin: 0; }
+.optiontable td label {
+	position: relative;
+	top: -4px;
+}
+.optiontable th label input[type=radio], .optiontable td p input[type=radio] {
+	position: relative;
+	top: 2px;
+}
+.optiontable td ul {
+	font-size: 12px;
+	list-style-type: none;
+	margin: 5px 0 0;
+	padding: 0;
+}
+.optiontable td ul li { margin: 0; }
+.wrap form p.submit { padding-top: 0; }
+.wrap #wp_movie_ratings { padding-bottom: 15px; }
+.wrap #wp_movie_ratings h2 {
+	margin-top: 10px;
+	border-top: 1px solid #dadada;
+}
+.wrap #wp_movie_ratings ul {
+	border: 1px solid #EEE;
+	border-bottom: 0;
+	border-top: 0;
+	list-style-type: none;
+	padding: 0;
+}
+.wrap #wp_movie_ratings ul li {
+	border-top: 1px solid #EEE;
+	border-bottom: 1px solid #EEE;
+	margin-bottom: 0;
+	margin-top: 3px;
+	padding: 2px 5px;
+	position: relative;
+}
+.wrap #wp_movie_ratings ul li:first-child { margin-top: 0; }
+.wrap #wp_movie_ratings ul li form div p.item { margin: 0; }
+.wrap #wp_movie_ratings ul li form div p.item img { display: none; }
+.wrap #wp_movie_ratings ul li form div p.item input.button {
+	background-color: #e5e5e5;
+	border: none;
+	border-left: 1px solid #EEE;
+	border-radius: 0;
+	-khtml-border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	color: #333;
+	padding: 2px 3px;
+	position: absolute;
+	right: 74px;
+	top: 0;
+	width: 75px;
+}
+.wrap #wp_movie_ratings ul li form div p.item input.button + input.button {
+	background-color: #f6f6f6;
+	color: #999;
+	right: 0px;
+}
+.wrap h2 + form + div + h2 {
+	border-top: 1px solid #dadada;
+	margin-top: 10px;
+}
+.wrap h2 + form + div + h2 + p + p + p + p + p + p + p + h2 {
+	border-top: 1px solid #dadada;
+	margin-top: 10px;
+}

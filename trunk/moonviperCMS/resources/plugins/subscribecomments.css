@@ -1,0 +1,43 @@
+.wrap h2 + ul {
+	list-style-type: none;
+	padding: 0;
+}
+.wrap h2 + ul li label { font-weight: bold; }
+.wrap h2 + ul li label input[type=text] {
+	border: 1px solid #CCC;
+	margin-left: 5px;
+	padding: 2px 3px;
+}
+.wrap h2 + ul + fieldset + fieldset ul li label input[type=text] { margin-left: 5px; }
+fieldset {
+	border: none;
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+fieldset legend {
+	color: #666;
+	font-size: 16px;
+	margin-bottom: 5px;
+	padding: 0;
+}
+fieldset label { font-weight: bold; }
+fieldset textarea, fieldset input[type=text] { border: 1px solid #CCC; }
+fieldset input[type=submit] {
+	border: 1px solid #999;
+	color: #333;
+}
+fieldset p { margin-top: 5px; }
+fieldset ul {
+	list-style-type: none;
+	padding: 0;
+}
+fieldset.options ul {
+	border: 1px solid #EEE;
+	border-top: 0;	
+}
+fieldset ul li {
+	margin-bottom: 0px;
+	padding: 2px 3px;
+}
+fieldset.options ul li { border-top: 1px solid #EEE; }
+fieldset ul li a { margin-left: 15px; }
